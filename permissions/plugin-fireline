@@ -1,0 +1,6 @@
+---
+name: "fireline"
+paths:
+- "org/jenkins-ci/plugins/fireline"
+developers:
+- "weihao"
